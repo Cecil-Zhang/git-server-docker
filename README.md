@@ -44,7 +44,7 @@ How to upload a repo:
 
 How clone a repository:
 
-	$ git clone ssh://git@<ip-docker-server>:2222/git-server/repos/myrepo.git
+	$ git clone ssh://git@<ip-docker-server>:2222/git-server/repos/configs.git
 
 ### Arguments
 
